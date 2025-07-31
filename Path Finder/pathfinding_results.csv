@@ -1,0 +1,4 @@
+Algorithm,Path Length,Execution Time (s)
+Dijkstra,21,0.00017
+Astar,21,0.00021
+Bellman-Ford,21,0.00029
